@@ -1,6 +1,6 @@
 # Estedad
 
-![Estedad_Github_1](https://github.com/aminabedi68/Estedad/blob/master/documentation/Estedad_Github_1.png)
+![Estedad_Github_1](https://github.com/aminabedi68/Estedad/blob/master/documentation/Estedad_Github_1.webp)
 
 **Estedad** (`/~este~dAd/`, meaning *“Talent”* in Persian) is an Arabic–Latin sans-serif typeface family available in 9 standard weights, along with a variable font (`wght` axis).
 
@@ -9,7 +9,7 @@ The design is simple, smooth, and compact, with low contrast and a relatively sm
 
 _The variable font quality has been improved in accordance with **FontBakery** recommendations._
 
-![Estedad_Github_2](https://github.com/aminabedi68/Estedad/blob/master/documentation/Estedad_Github_2.png)
+![Estedad_Github_2](https://github.com/aminabedi68/Estedad/blob/master/documentation/Estedad_Github_2.webp)
 
 
 ## Weights and Axes
@@ -33,4 +33,4 @@ fontmake -o variable -g Estedad.glyphs
 
 _(NOT RECOMMENDED: in this method fontmake couldn't handle the Axis Mapping and Decompose Components CP)_
 
-![Estedad_Github_3](https://github.com/aminabedi68/Estedad/blob/master/documentation/Estedad_Github_3.png)
+![Estedad_Github_3](https://github.com/aminabedi68/Estedad/blob/master/documentation/Estedad_Github_3.webp)

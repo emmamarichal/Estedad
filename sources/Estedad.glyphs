@@ -1,9 +1,6 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
-DisplayStrings = (
-"ﷲ"
-);
 axes = (
 {
 name = Weight;
@@ -173712,10 +173709,6 @@ value = "https://openfontlicense.org";
 {
 key = vendorID;
 value = amin;
-},
-{
-key = versionString;
-value = "Version 8.5";
 }
 );
 unitsPerEm = 1000;

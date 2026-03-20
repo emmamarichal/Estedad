@@ -1302,7 +1302,7 @@ value = (
 );
 }
 );
-date = "2026-03-20 01:36:46 +0000";
+date = "2026-03-20 02:37:26 +0000";
 familyName = Estedad;
 featurePrefixes = (
 {
@@ -4001,7 +4001,7 @@ value = "hamza-ar";
 },
 {
 name = hheaAscender;
-value = 1000;
+value = 1025;
 },
 {
 name = hheaDescender;
@@ -4289,7 +4289,7 @@ color = 3;
 glyphname = A;
 kernLeft = A;
 kernRight = A;
-lastChange = "2026-03-20 01:39:07 +0000";
+lastChange = "2026-03-20 02:37:33 +0000";
 layers = (
 {
 anchors = (
@@ -19856,7 +19856,7 @@ color = 3;
 glyphname = Osmall;
 kernLeft = Gsmall;
 kernRight = o;
-lastChange = "2026-03-16 20:03:12 +0000";
+lastChange = "2026-03-20 02:26:13 +0000";
 layers = (
 {
 anchors = (
@@ -19949,34 +19949,34 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(109,-10,o),
-(18,73,o),
-(18,249,cs),
-(18,425,o),
-(109,510,o),
-(294,510,cs),
-(479,510,o),
-(570,425,o),
-(570,249,cs),
-(570,73,o),
 (479,-10,o),
+(570,73,o),
+(570,249,cs),
+(570,425,o),
+(479,510,o),
+(294,510,cs),
+(109,510,o),
+(18,425,o),
+(18,249,cs),
+(18,73,o),
+(109,-10,o),
 (294,-10,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(353,122,o),
-(382,162,o),
-(382,249,cs),
-(382,335,o),
-(353,375,o),
-(294,375,cs),
-(235,375,o),
-(206,335,o),
-(206,249,cs),
-(206,162,o),
 (235,122,o),
+(206,162,o),
+(206,249,cs),
+(206,335,o),
+(235,375,o),
+(294,375,cs),
+(353,375,o),
+(382,335,o),
+(382,249,cs),
+(382,162,o),
+(353,122,o),
 (294,122,cs)
 );
 }
@@ -116125,7 +116125,7 @@ unicode = 60;
 },
 {
 glyphname = greaterequal;
-lastChange = "2026-03-17 19:59:28 +0000";
+lastChange = "2026-03-20 02:29:27 +0000";
 layers = (
 {
 layerId = m004;
@@ -116139,7 +116139,7 @@ ref = minus;
 scale = (1.067,1);
 }
 );
-width = 600;
+width = 569;
 },
 {
 layerId = "AE3FEF6D-3AA7-4252-B349-D2606A6A3B4C";
@@ -116153,7 +116153,7 @@ ref = minus;
 scale = (1.0989,1);
 }
 );
-width = 600;
+width = 577;
 },
 {
 layerId = "3FD7D777-D61F-402B-A269-3A472D550581";
@@ -116175,7 +116175,7 @@ unicode = 8805;
 },
 {
 glyphname = lessequal;
-lastChange = "2026-03-17 19:59:44 +0000";
+lastChange = "2026-03-20 02:29:37 +0000";
 layers = (
 {
 layerId = m004;
@@ -116189,7 +116189,7 @@ ref = minus;
 scale = (1.067,1);
 }
 );
-width = 600;
+width = 569;
 },
 {
 layerId = "AE3FEF6D-3AA7-4252-B349-D2606A6A3B4C";
@@ -116203,7 +116203,7 @@ ref = minus;
 scale = (1.0989,1);
 }
 );
-width = 600;
+width = 577;
 },
 {
 layerId = "3FD7D777-D61F-402B-A269-3A472D550581";
@@ -157426,7 +157426,7 @@ value = amin;
 },
 {
 key = versionString;
-value = "Version 8.4";
+value = "Version 8.5";
 }
 );
 unitsPerEm = 1000;
@@ -157829,5 +157829,5 @@ uniFEFC = uni06440627.fina;
 UFOFormat = 3;
 };
 versionMajor = 8;
-versionMinor = 400;
+versionMinor = 500;
 }

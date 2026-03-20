@@ -4,7 +4,7 @@
       - wght
     familyName: "Estedad"
     cleanUp: true
-    buildSmallCaps: false
+    buildSmallCap: false
     stat:
       Estedad[wght].ttf:
       - name: Weight
